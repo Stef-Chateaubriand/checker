@@ -1,0 +1,27 @@
+* {
+margin-left: auto;
+margin-right: auto;
+}
+
+.row{
+min-height: 100px;
+}
+
+.square-color-1{
+background-color: rgb(50, 234, 221);
+display: inline-block;
+height: 110px;
+width: 110px;
+}
+
+.square-color-2{
+background-color: pink;
+display: inline-block;
+height: 110px;
+width: 110px;
+}
+
+.color{
+  background-color:var(--color1);
+  background-color:var(--color2);
+}
